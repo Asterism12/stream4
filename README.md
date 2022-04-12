@@ -52,10 +52,10 @@ func main() {
 ```
 
 ## Supported Operation
-Map
-Reduce
-Filter
-ForEach
-Limit
-Min
-GroupBy(not streaming)
+* Map 
+* Reduce 
+* Filter 
+* ForEach 
+* Limit 
+* Min 
+* GroupBy(not streaming) 
