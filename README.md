@@ -7,7 +7,7 @@ package main
 
 import (
     "fmt"
-    "github.com/asterbao/stream4"
+    "github.com/Asterism12/stream4"
 )
 
 func main() {
