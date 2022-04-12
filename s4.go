@@ -1,6 +1,6 @@
 package stream4
 
-import "stream4/function"
+import "github.com/Asterism12/stream4/function"
 
 // Stream4 a sequence of elements of type 4
 type Stream4[T1 any, T2 any, T3 any, T4 any] struct {
