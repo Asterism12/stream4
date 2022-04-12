@@ -6,7 +6,7 @@ Stream4 is a JAVA-stream-style Go library using generics, allows streaming opera
 package main
 
 import (
-	"fmt"
+    "fmt"
     "github.com/asterbao/stream4"
 )
 
@@ -50,3 +50,12 @@ func main() {
 	// output : 3
 }
 ```
+
+## Supported Operation
+Map
+Reduce
+Filter
+ForEach
+Limit
+Min
+GroupBy(not streaming)
