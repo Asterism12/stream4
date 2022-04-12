@@ -1,8 +1,6 @@
 package stream4
 
-import (
-	"stream4/function"
-)
+import "github.com/Asterism12/stream4/function"
 
 // Slice returns a sequential Stream supporting 1 type with the specified slice as its source
 func Slice[T any](vs []T) Stream1[T, any, any, any] {
